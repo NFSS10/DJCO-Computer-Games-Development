@@ -14,7 +14,7 @@ The game has various levels, each one containing a lot of obstacles.
 <hr>
 
 ## Final Project - Qualia
-![]()
+![](Images/Qualia.png)
 [![Qualia Video](http://img.youtube.com/vi/e1YLSHpFqSI/0.jpg)](http://www.youtube.com/watch?v=e1YLSHpFqSI "")
 
 ### Description
