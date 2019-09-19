@@ -1,4 +1,4 @@
-# DJCO-Computer-Games-Development
+# DJCO - Computer Games Development
 Projects made in Computer Games Development class - MIEIC 4y2s
 
 Used Unity 2017.3.1f1
